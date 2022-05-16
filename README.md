@@ -1,3 +1,4 @@
 # SSN-VALIDATOR
 
-[docs](docs/Test Plan"Test Plan")
+[a relative link](Test Plan.md)
+
