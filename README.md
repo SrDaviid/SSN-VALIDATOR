@@ -1,4 +1,4 @@
 # SSN-VALIDATOR
 
-[a relative link](Test Plan.md)
+[a link](https://github.com/SrDaviid/blob/main/docs/Test%20Plan.md)
 
